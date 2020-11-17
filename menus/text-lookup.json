@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Lookup",
+        "command": "lookup"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Lookup",
+          "command": "lookup"
+        }
+      ]
+    }
+  ]
+}

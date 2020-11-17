@@ -1,0 +1,13 @@
+{
+  "name": "text-lookup",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "A plugin for Inkdrop to display information about the selected text.",
+  "keywords": [],
+  "repository": "https://github.com/Forfold/inkdrop-text-lookup",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.1.2"
+  },
+  "dependencies": {}
+}
